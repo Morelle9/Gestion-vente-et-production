@@ -16,7 +16,7 @@
 <body>
 
 <div class="container">
-    <h2>Ajouter un nouveau client</h2>
+    <h2>Add a new client</h2>
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Récupération des valeurs du formulaire
