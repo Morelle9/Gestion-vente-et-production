@@ -1,0 +1,1 @@
+Notice: Trying to get property of non-object in C:\wamp2\www\Gestion_vente_production\Inventory Management System Project\inventoryms\admin\rapport_commercial.php on line 23
